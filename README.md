@@ -1,4 +1,4 @@
-# Assignment 2 - Web API Controllers
+# Assignment 2
 
 This project contains three Web API controllers (J1, J2, and J3) for various tasks. Each controller serves a specific purpose and provides endpoints for accessing their functionality.
 
